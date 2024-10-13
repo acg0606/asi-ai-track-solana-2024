@@ -5,7 +5,7 @@ https://fetch.ai/events/hackathons/solana-hackathon/hackpack
 Project for the Solana Copa America Hackathon  
 Developed for the ASI AI Track
 https://docs.google.com/document/d/1PcVVTLTMa_4Pj6X7yM9CH9IaeAfe07625uvZVi6JK_E/edit?usp=sharing
-#built BY @derivativador | André de Carvalho Gomes
+#built BY @derivativador | André de Carvalho Gomes & Ivan Naxara 
 
 **My knowledge before starting the project:**  
 - Python Knowledge: Zero  
